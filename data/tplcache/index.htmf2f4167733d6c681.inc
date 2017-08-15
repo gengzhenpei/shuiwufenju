@@ -51,7 +51,7 @@ $z[21][4]['titlelen']="12";
 $z[21][4]['orderby']="pubdate";
 $z[22]=Array("arclist","\r\n								<li>\r\n									<a href=\"[field:arcurl/]\" target=\"_blank\"><img src=\"[field:picname/]\">\r\n										<p>[field:title/]</p>\r\n									</a>\r\n								</li>\r\n								",5521,5733);
 $z[22][4]['row']="3";
-$z[22][4]['flag']="p";
+$z[22][4]['flag']="f";
 $z[23]=Array("channelartlist","\r\n					<dl class=\"tbox\">\r\n						<dt>\r\n							<strong>\r\n							<a href=\"javascript:void(0)\">{dede:field name='typename'/}</a>\r\n							</strong>\r\n							<span class=\"more\">\r\n								<a href=\"javascript:void(0)\">更多...</a>\r\n							</span>\r\n						</dt>\r\n						<dd>\r\n							<ul class=\"d1 ico3\">\r\n								{dede:arclist titlelen='60' row='6'}\r\n								<li><span>[field:pubdate function=\"MyDate('m-d',@me)\"/]</span>\r\n									<a href=\"[field:arcurl /]\">[field:title /]</a>\r\n								</li>\r\n								{/dede:arclist}\r\n							</ul>\r\n						</dd>\r\n					</dl>\r\n					",5872,6500);
 $z[23][4]['type']="son";
 $z[23][4]['row']="8";
