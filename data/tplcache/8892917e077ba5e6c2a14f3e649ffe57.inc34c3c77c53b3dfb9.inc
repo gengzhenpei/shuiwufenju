@@ -1,0 +1,8 @@
+<?php
+$z[0]=Array("field","",84,113);
+$z[0][4]['name']="typename";
+$z[1]=Array("arclist","\r\n								<li><span>[field:pubdate function=\"MyDate('m-d',@me)\"/]</span>\r\n									<a href=\"[field:arcurl /]\">[field:title /]</a>\r\n								</li>\r\n								",295,500);
+$z[1][4]['titlelen']="60";
+$z[1][4]['row']="6";
+
+?>
