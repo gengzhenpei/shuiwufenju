@@ -1,1 +1,0 @@
-INSERT INTO `dhomepageset` VALUES('default/index.htm','../index.html','0');

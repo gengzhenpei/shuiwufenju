@@ -1,3 +1,0 @@
-<div class='d1arc'>
-							<a href="[field:arcurl/]">[field:title/]</a>
-						</div>

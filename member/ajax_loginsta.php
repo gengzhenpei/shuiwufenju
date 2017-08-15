@@ -19,7 +19,7 @@ $facepic = empty($face)? $cfg_ml->fields['face'] : $GLOBALS['cfg_memberurl'].'/t
 ?>
 <div class="userinfo">
     <div class="welcome">你好：<strong><?php echo $cfg_ml->M_UserName; ?></strong>，欢迎登录 </div>
-    <!--<div class="userface">
+    <div class="userface">
         <a href="<?php echo $cfg_memberurl; ?>/index.php"><img src="<?php echo $facepic;?>" width="52" height="52" /></a>
     </div>
     <div class="mylink">
@@ -31,15 +31,11 @@ $facepic = empty($face)? $cfg_ml->fields['face'] : $GLOBALS['cfg_memberurl'].'/t
             <li><a href="<?php echo $cfg_memberurl; ?>/visit-history.php">访客记录</a></li>
             <li><a href="<?php echo $cfg_memberurl; ?>/search.php">查找好友</a></li>
         </ul>
-    </div>-->
-    <!--<div class="uclink">
+    </div>
+    <div class="uclink">
         <a href="<?php echo $cfg_memberurl; ?>/index.php">会员中心</a> | 
         <a href="<?php echo $cfg_memberurl; ?>/edit_fullinfo.php">资料</a> | 
         <a href="<?php echo $myurl;?>">空间</a> | 
         <a href="<?php echo $cfg_memberurl; ?>/index_do.php?fmdo=login&dopost=exit">退出登录</a> 
-    </div>-->
-    <div class="" style="margin: 12px;">
-    	
-   	 	<a href="<?php echo $cfg_memberurl; ?>/index_do.php?fmdo=login&dopost=exit">退出登录</a> 
     </div>
 </div><!-- /userinfo -->

@@ -1,7 +1,7 @@
 <?php
 $cfg_basehost = 'http://dede.test.zanpu.org';
 $cfg_cmspath = '';
-$cfg_cookie_encode = 'dGr84SwgpimwuWuSQBWyDKl5dxBT';
+$cfg_cookie_encode = 'ukQRvGuWGqA7g7hgPfipFDmLcHAsNfsW';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';

@@ -1,1 +1,0 @@
-INSERT INTO `daddonsoft` VALUES('12','32','.zip','简体中文','国产软件','共享软件','Win2003WinXPWin2000Win9X','3','http://','http://','0.00 MB','{dede:link islocal=\'1\' text=\'本地下载\'} /uploads/soft/170814/1-1FQ4101352.rar {/dede:link}\r\n','值班表内容详细介绍<br />\r\n值班表下载：&nbsp;<a href=\"/uploads/soft/170814/1-1FQ4101352.rar\">/uploads/soft/170814/1-1FQ4101352.rar</a>','0','0','','127.0.0.1','');
