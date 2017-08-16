@@ -8,9 +8,11 @@
   float: left;
   overflow: hidden;
 }
-
+.width100{
+	width: 100%;
+}
 .pleft .place {
-  width: 712px;
+
   height: 24px;
   line-height: 24px;
   background: transparent url(../images/green_skin.png) repeat-x scroll 0 -188px;
