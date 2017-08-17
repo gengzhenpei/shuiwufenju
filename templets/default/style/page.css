@@ -4,7 +4,7 @@
  **/
 
 .pleft {
-  width: 850px;
+  width: 919px;
   float: left;
   overflow: hidden;
 }
@@ -81,7 +81,7 @@
 }
 
 .pright {
-  width: 240px;
+  width: 262px;
   float: right;
   overflow: hidden;
 }
@@ -215,10 +215,10 @@
 }
 
 .index .latestnews {
-  width: 312px;
+  width: 280px;
   height: 200px;
-  margin-right: 12px;
   float: left;
+  margin-right: 2px;
 }
 
 .index .latestnews dl dd {
@@ -245,11 +245,10 @@
   float: left;
   clear: both;
   overflow: hidden;
-  margin-top: 7px;
 }
 
 .index .listbox dl {
-  width: 417px;
+  width: 451px;
   margin-right: 8px;
   margin-top: 2px;
   float: left;
@@ -260,7 +259,7 @@
 }
 
 .index .usercenter .tbox dd {
-  height: 200px;
+  height: 162px;
   display: none;
 }
 
@@ -372,11 +371,14 @@
   overflow: hidden;
   text-align: center;
   color: #DDD;
+  background: #DDD;
+  margin: 0 20px;
 }
 
 .index .userinfo .uclink a {
   color: #690;
   margin: 0px 2px;
+  margin-left: -28px;
 }
 
 .index .latestlogin {

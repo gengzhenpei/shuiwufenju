@@ -1,0 +1,2 @@
+INSERT INTO `dede_flink` VALUES('10','1','http://baidu.com','百度一下','','','','1502936976','1','2');
+INSERT INTO `dede_flink` VALUES('11','1','https://www.zhihu.com/','知乎','','','','1502937263','1','2');
